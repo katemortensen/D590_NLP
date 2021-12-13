@@ -1,0 +1,284 @@
+Context,Utterance,Label
+"Hello folks, please help me a bit with the following sentence: 'Order here your personal photos or videos.' - I think the only allowed version is 'Order your personal videos or photos here.', but I'm not sure, are you?",Printer config instructions are usually at the manufactorer's website,0
+Sock Puppe?t,"If you're having connection issues, try restarting your router.",0
+what is bartek trying to do?,"If you're having connection issues, try restarting your router.",0
+is there any reason why my 'network manager' icon in my tray does not scale when the other ones get resized when i change the size of the panel?,There may be a problem with memory allocation in the code.,0
+how do fix vlc in the terminal?,"If you're having connection issues, try restarting your router.",0
+fix what?,"If you're having connection issues, try restarting your router.",0
+"I installed the 64bit version of ubuntu and I can't open firefox(segfault) and if I try to open nautilus nothing happens and my cpu goes 100%, what can I do???","If you're having connection issues, try restarting your router.",0
+Hello Does Ubuntu have somekind of register to configure applications and os settings?,There may be a problem with memory allocation in the code.,0
+how do i generate an xorg.conf file?,Printer config instructions are usually at the manufactorer's website,0
+anyone else run into issues with cd/dvd burners not identifying blank media installed?,"If you're having connection issues, try restarting your router.",0
+Where does synoptic install the programs to? Like it aint on desktop,There may be a problem with memory allocation in the code.,0
+are there any utils that will do a repair of your laptop once in a while ?,There may be a problem with memory allocation in the code.,0
+repair in the sense? clean up of unused files ?,Printer config instructions are usually at the manufactorer's website,0
+"hi folks, i'm making a backup of my root partition just incase this gparted livecd resize goes wrong - at the moment i am just cp -Rp /bin /etc /lib /sbin /usr /boot /home /opt /srv /var /vmlinuz /media /opt /root  -- is there anything else i should be doing?",I'll let the community handle this one.,0
+is there a way to tell ubuntu not to show icon for a specific external hdd on the desktop? (but i want others to show up on the desktop),Are you asking about Ubuntu software?,0
+Is there a second cd needed for the 9.04 beta server install? I keep reaching about 77% completed and then it asks for 'Ubuntu-Server 9.04 _Jaunty Jackalope_ Beta i386 (20090324.2)',Are you asking about Ubuntu software?,0
+am i supposed to set the device boot loader to /dev/sda or sda3? where the /boot partition is,I'll let the community handle this one.,0
+"idleone, i went through the set up and entered all infomation include horiz and vert sync rates but when i go to the screen resolution setting i still dont see any new options, do i have to restart before they take effect?",Are you asking about Ubuntu software?,0
+Can anyone recommend an NFS alternative that works transparently?,I'll let the community handle this one.,0
+http://www.newsforge.com/article.pl?sid=04/10/12/1421241,Printer config instructions are usually at the manufactorer's website,0
+"hi all - I'm trying to find ttf-bitstream-vera for karmic, but it's not there, and my google-fu is failing me. can someone point me to some hints?",Are you asking about Ubuntu software?,0
+"Question guys, I know it's probably in the manual some where but I'm too lazy to look, where abouts is the setting to make the icons on the desktop smaller?",I'll let the community handle this one.,0
+can't you alt + middle click and resize them?,"If you're having connection issues, try restarting your router.",0
+can someone help me print from a wireless printer using 9.04?,Printer config instructions are usually at the manufactorer's website,0
+is the wireless printer already set up?? Does it have an ip and can you ping it?,Are you asking about Ubuntu software?,0
+"when I upgraded from 10.04 to 10.10, the upgrade process put the UUID of the wrong partition in /boot/grub/menu.lst ... which package should I report a bug against?",Printer config instructions are usually at the manufactorer's website,0
+how can I install mercury messanger on ubuntu?,There may be a problem with memory allocation in the code.,0
+hints on how  to get Nvidia driver to work?,"If you're having connection issues, try restarting your router.",0
+whats the best gnome irc?,There may be a problem with memory allocation in the code.,0
+which slash bar?,I'll let the community handle this one.,0
+Take at look at: http://ubuntuforums.org/showthread.php?p=1071920&mode=linear or http://ubuntuforums.org/showthread.php?t=25683 they might help,"If you're having connection issues, try restarting your router.",0
+"I have to do this on every system, or just make one in run directory and it will work for everyone who download this app?","If you're having connection issues, try restarting your router.",0
+Is it possible to disable the graphics card in my AGP slot and run from my onboard graphics without removing the card?,Are you asking about Ubuntu software?,0
+"do you have access to the server? if yes, then do it on the console.","If you're having connection issues, try restarting your router.",0
+"quick question, if anyone knows.. is there a tutorial on how to switch to an SMP kernel?  I'm using a p4HT, I have the HT dissabled, not sure if it's better off that way in nix or not?",There may be a problem with memory allocation in the code.,0
+tried 'apt-get -f install' ?,Are you asking about Ubuntu software?,0
+anyone knows witch port uses apt-get?,Printer config instructions are usually at the manufactorer's website,0
+how do i switch to kbuntu?,I'll let the community handle this one.,0
+is it possible to remove bottom shelf in gnome classic?,I'll let the community handle this one.,0
+When is Ubuntu 8.8 being released?,There may be a problem with memory allocation in the code.,0
+is their a recommended PDF editor?,Are you asking about Ubuntu software?,0
+Anyone please? i'm sure there is a simple program I'm missing...,Are you asking about Ubuntu software?,0
+you just want to use cp? from command line?,Printer config instructions are usually at the manufactorer's website,0
+does Ubuntu outsource india ?,Printer config instructions are usually at the manufactorer's website,0
+what difference does it make? did you have an ubuntu-related question?,I'll let the community handle this one.,0
+"ok , i have intel onboard vga, with hdmi output, how do i use it?",Are you asking about Ubuntu software?,0
+"hello everyone, it's another grand ubuntu day. Does anyone know what I can use to open winrar archives?",There may be a problem with memory allocation in the code.,0
+a little aggravated. You?,I'll let the community handle this one.,0
+Is something going on?  All of my mini.iso installs are failing on the linux-generic package.,"If you're having connection issues, try restarting your router.",0
+what is your wireless problem?,There may be a problem with memory allocation in the code.,0
+connection to ubuntu support?,Printer config instructions are usually at the manufactorer's website,0
+Get soemthing to work?,I'll let the community handle this one.,0
+"Where can I get help regarding sound problems? Yes I know, I have read tons of documentations and even installed another alsa version... I'm 2 days searching for solutions","If you're having connection issues, try restarting your router.",0
+What problems?,Are you asking about Ubuntu software?,0
+"when installing ubuntu at the free area of a hard disk with xp on, does the installer put a boot selector at the beginning of the disk?",Are you asking about Ubuntu software?,0
+/topic works too - I find it more conveniant than copy/pasting. What say you?,Are you asking about Ubuntu software?,0
+"i'd installed ubuntu in my notebook, can i make a partition ? how ?",There may be a problem with memory allocation in the code.,0
+can somebody help me....how to recover file in formatted ntfs external HD?,There may be a problem with memory allocation in the code.,0
+does anyone know how FF can use 99-100% CPU ?,Are you asking about Ubuntu software?,0
+october?,Printer config instructions are usually at the manufactorer's website,0
+Does anyone know how I can check what driver I'm using for my video card?,Printer config instructions are usually at the manufactorer's website,0
+Is this the best place for new converts from Windoze to Linux (Ubuntu 8.10)?,"If you're having connection issues, try restarting your router.",0
+11.10 uses grub2 right?,There may be a problem with memory allocation in the code.,0
+Is there a alternative way than apt-get to install xserver-xfree ?,Are you asking about Ubuntu software?,0
+"Hi, i have just read that you can shop Kinect for PC (windows 7). Do you think that we will have a linux driver soon?",I'll let the community handle this one.,0
+I am following the JustLinux Saikee tutorial are newer distros broken for grub1 ?,There may be a problem with memory allocation in the code.,0
+"Curiosity, why are you using grub1?",Printer config instructions are usually at the manufactorer's website,0
+"I feel like a complete twit right now.. how am I supposed to install XDocLet ? only found a bunch of tar'ed .jar-files, and I got no clue what to do with em lol",Printer config instructions are usually at the manufactorer's website,0
+Ubutntu 9.04 beta: compiz: missing transparency effeccts on all windows.  everything else in compiz works great.  any ideas?,There may be a problem with memory allocation in the code.,0
+ /usr/lib/firefox-3.6.6 in mc shows Owner: root/src even after I have re-installed all packages having 'firefox' in their names. How to fix this?,"If you're having connection issues, try restarting your router.",0
+"hello all -- quick question: I came across some information that says that Ubuntu comes with 3180 packages by default, and maximally 16271.  Where are the rest of these packages? Is there an ISO somewhere to download or is it totally by apt?",Are you asking about Ubuntu software?,0
+"CAN ANYONE HELP me with installing a video game? The first patch won't update the game, but the others try to patch and pretend to succeed but they need the first patch to do this. I'm stuck with this game and it won't work unless the first patch is installed... I think it may have something to do with the ms.net framework but I'm not sure....","If you're having connection issues, try restarting your router.",0
+What game?,There may be a problem with memory allocation in the code.,0
+So why are we helping zxc333?,There may be a problem with memory allocation in the code.,0
+Hi. What are the 6.06 images called 'alternate'?  E.g. ubuntu-6.06-alternate-i386.iso,Are you asking about Ubuntu software?,0
+Does the size of an unsigned long differ between an x86 based computer and an arm9 based controller?,"If you're having connection issues, try restarting your router.",0
+porting apps for NintendoDS?,Are you asking about Ubuntu software?,0
+does ubuntu recognizes other usb devices on your computer?,"If you're having connection issues, try restarting your router.",0
+is 12.10 coming out tomorrow as expected?,I'll let the community handle this one.,0
+"seems there's not much for keyboard shortcuts in GNOME but through configuration editor. There may be an application to do this but I haven't found it yet. Weak, eh?  Sounds like someone needs to write an app.","If you're having connection issues, try restarting your router.",0
+"Hi. I have a windows xp iso file, I would like to copy content of this .iso file to my pendrive and make it bootable. How can I do that under ubuntu?","If you're having connection issues, try restarting your router.",0
+how to transfer files (250 GB) from my pc and my new laptop?,Printer config instructions are usually at the manufactorer's website,0
+"hey all, I've a question.  Is there anyway to migrate from Ubuntu to Kubuntu w/o loosing any settings or anything downloaded etc?",There may be a problem with memory allocation in the code.,0
+what is the root password on knoppix ?,Printer config instructions are usually at the manufactorer's website,0
+toor?,"If you're having connection issues, try restarting your router.",0
+I'm not able to download Eterm with apt-get.. should I add some mirror or what?,Printer config instructions are usually at the manufactorer's website,0
+who all is getting in the beta?,There may be a problem with memory allocation in the code.,0
+its any soft  to free ram?,Printer config instructions are usually at the manufactorer's website,0
+i guese thats what you want no ?,Are you asking about Ubuntu software?,0
+i'm trying to tftp to a router.  it asks me to specify a port....which port do i use?,Are you asking about Ubuntu software?,0
+Hello.  Can anyone recommend a good iso burner for Ubuntu?,Printer config instructions are usually at the manufactorer's website,0
+"Hi, can anyone help me? I am trying to encode a video using CLI and ffmpeg and x264. The thing is that I want to trim, deinterlace, and maybe resize the video... any help would be appreciated...",There may be a problem with memory allocation in the code.,0
+man ffmpeg ?,Printer config instructions are usually at the manufactorer's website,0
+"Hm, what kinds of risks does it lead to?","If you're having connection issues, try restarting your router.",0
+is there any gui to install wallpapers/themes/icons?,Printer config instructions are usually at the manufactorer's website,0
+where i can i find docs on how to upgrade ubuntu from warty to hoary?,There may be a problem with memory allocation in the code.,0
+anybody xen and vserver on edgy?,Are you asking about Ubuntu software?,0
+"you can ignore me if you want if this is a stupid question, but I need help remembering what my login for ubuntu is. I JUST installed it, all I rememebr is putting Mike as the user name and my normal password but when booting it up they won't log me on?","If you're having connection issues, try restarting your router.",0
+where is the bash history stored?,Printer config instructions are usually at the manufactorer's website,0
+best video editing software? ANYONE,There may be a problem with memory allocation in the code.,0
+anyone have a good suggestion on an html editor?,I'll let the community handle this one.,0
+so i won't be able to use perl rename to do what I want?,Are you asking about Ubuntu software?,0
+anyone know of a page where I can start reading tonight about how to upgrade to the new version when feisty comes out later this week (without totally doing a reformat/reinstall?),There may be a problem with memory allocation in the code.,0
+is there a 'make' program in ubuntu? a program is asking for it,I'll let the community handle this one.,0
+"what incantation lets me see virtual terminals?  They're there, but since sometime in Jaunty, they're black on black.",I'll let the community handle this one.,0
+Question: may i know what is the channel for update packaging tutorial?,"If you're having connection issues, try restarting your router.",0
+which program can send mail when it starts?,Are you asking about Ubuntu software?,0
+Moin. If I open bash there always appears a update notification. How can I remove it (or where is the skript??)?,Are you asking about Ubuntu software?,0
+anyone know where I can find a php5-dbase package for ubuntu?,"If you're having connection issues, try restarting your router.",0
+apt-cache search php |grep dbase ?,Printer config instructions are usually at the manufactorer's website,0
+whats a light DM without compiz that will still have game capability?,There may be a problem with memory allocation in the code.,0
+should i change my preference to testing  or something like that ?,Are you asking about Ubuntu software?,0
+"I'm trying to get aircrack-ng to work, and when i follow the howto's, it keeps telling we that it can't put my atheros card can't be put in monitor mode. I've personally put this card in master mode to use as a WAP, so i know it SHOUDL be able to do this also..   is there something ubunt-specific that is goofing me here?",Are you asking about Ubuntu software?,0
+ndiswrapper?,Printer config instructions are usually at the manufactorer's website,0
+"why are you looking for network gurus here, of all places?",Are you asking about Ubuntu software?,0
+anyone seen http://zpaste.org/7045 before?,Are you asking about Ubuntu software?,0
+"after using synaptic update, why dosn't firefox update to version 1.0? or 1.0.1",There may be a problem with memory allocation in the code.,0
+can not read Bengali news paper aajkl in Firefox . i have installed padma duynamic fonts. It works only for Anandabazar. Do i install Netscape ?,There may be a problem with memory allocation in the code.,0
+why do you think people knows about ajkal here? :P,There may be a problem with memory allocation in the code.,0
+maybe anyone help a linux amateur?,Are you asking about Ubuntu software?,0
+ ask your question yet?,There may be a problem with memory allocation in the code.,0
+which is?,There may be a problem with memory allocation in the code.,0
+what archiver do you guys recommend for RAR files? Archive Manager doesn't have RAR support apparently O_O,Are you asking about Ubuntu software?,0
+how did you get to a state where your user isn't in sudoers?,I'll let the community handle this one.,0
+does a live ubuntu 8.10 session allow to write to ntfs easily?,I'll let the community handle this one.,0
+"Hello folks, can i post a link to a launchpad question I have open at the moment to get more visibility / help?",Are you asking about Ubuntu software?,0
+how I can change the computer name? I tried to change '/etc/hosts' and '/etc/hostname' but nothing,I'll let the community handle this one.,0
+how do i boot straight to console mode?,"If you're having connection issues, try restarting your router.",0
+do i need to defrag my harddisk first on windows first before i install ubuntu?,"If you're having connection issues, try restarting your router.",0
+you dont need to defrag. but do you mean partition?,Printer config instructions are usually at the manufactorer's website,0
+or what?,"If you're having connection issues, try restarting your router.",0
+What kind of laptop is it?,I'll let the community handle this one.,0
+Should I not get some data from that command?,Are you asking about Ubuntu software?,0
+"I've installed ndiswrapper and downloaded and unzipped the netgear wg311v2 windows driver, but there's no .ini file, how can I install this driver?","If you're having connection issues, try restarting your router.",0
+am i the only one who hates new ubuntu logotype?,"If you're having connection issues, try restarting your router.",0
+does ubuntu have font problems?,Are you asking about Ubuntu software?,0
+does anyone know an fairly easy way of building GUIs for shell scripts?,Are you asking about Ubuntu software?,0
+"when i type my IP address into my firefox URL bar, it prompts me for a username and password...what username and password is it looking for?",There may be a problem with memory allocation in the code.,0
+does the same thing happen when you type 'localhost'?,Are you asking about Ubuntu software?,0
+"i need help-i just installed ubuntu on a pc, i choose widescreen. now when it boots i cannot see anything when xserver starts.is there a way to reconfigure xorg with a command?","If you're having connection issues, try restarting your router.",0
+"why doesnt this line work in fstab? /dev/sda6  /media/shared fat32 rw,user,uid=helix,gid=helix 0 0","If you're having connection issues, try restarting your router.",0
+How do I list the ubuntu channels on this server?,Printer config instructions are usually at the manufactorer's website,0
+anybody can help me with sound? ubuntu 9.04,Are you asking about Ubuntu software?,0
+does after effects run in wine?,"If you're having connection issues, try restarting your router.",0
+did you try?,Are you asking about Ubuntu software?,0
+"hello everyone.. after a few hours of trying, I was able to get ubuntu to recognize my atheros card.  Now everytime i restart I have to enter the command 'sudo iwconfig wlan0 key open'.  How can I do it so iconfig save that command?  I've tried 'sudo iwconfig wlan0 commit' but i get the same problem at restart.  can i run this command as soon as the system start?",Are you asking about Ubuntu software?,0
+slip it in rc.local?,There may be a problem with memory allocation in the code.,0
+why doesnt apt-get install nagios work though??,Printer config instructions are usually at the manufactorer's website,0
+"whats a good tool for viewing images? eye gnome is good, but i'd like to be able to click a button in the program and move on to the next image in the directory",Are you asking about Ubuntu software?,0
+which channel would be the best to ask about nick registering and password retrieval?,Are you asking about Ubuntu software?,0
+do you mean 11.04?,Printer config instructions are usually at the manufactorer's website,0
+what you need to do ?,I'll let the community handle this one.,0
+what kind of crash ?,I'll let the community handle this one.,0
+is it possible to start 2 'gedit's instead of opening a new tab when it's already started?,Printer config instructions are usually at the manufactorer's website,0
+i've got a question ... I cant install ubuntu because of a resolution problem. Is there a cmd to start the ubuntu CD with another resolution ?,I'll let the community handle this one.,0
+thank you for the link. So can I just remove whoopsie?,There may be a problem with memory allocation in the code.,0
+how do i change my nick pls?,There may be a problem with memory allocation in the code.,0
+No wvdial in ubuntu. Theres a brainfart if I ever saw one. Has this been fixed in newer releases? Mine is a bit old ,Are you asking about Ubuntu software?,0
+what is wrong with chat? (used by default),Printer config instructions are usually at the manufactorer's website,0
+what's the problem?,Are you asking about Ubuntu software?,0
+"I've got a Q, has anybody modem ZTEMF 626 and use it on ubuntu? Does it work? .... I want to buy this one....",Are you asking about Ubuntu software?,0
+"is there a grub option for showing only the lastest kernel when you boot your computer? as of now, it just keeps on filling the list from the newest one, to the oldest, and then windows",Printer config instructions are usually at the manufactorer's website,0
+Do all the Wines apps give you trouble? Or just some?,Are you asking about Ubuntu software?,0
+whats the command to see if my pc supports x86_64?,"If you're having connection issues, try restarting your router.",0
+somebody here?,There may be a problem with memory allocation in the code.,0
+"how do i create a new user, but yet hide him from the user and groups?",Are you asking about Ubuntu software?,0
+hi any of you guy have problem printing with msword2007 running in wine? mine prints onyl the first page. i dont know if it is a wine problem or my ubuntu prob =( because printing pdf is the same using document viewer or okular,Printer config instructions are usually at the manufactorer's website,0
+"I have a simple question, how do you install winks on amsn?",Are you asking about Ubuntu software?,0
+do i have 8.04 or earlier version? 2.6.24-19-generic,There may be a problem with memory allocation in the code.,0
+hello?,"If you're having connection issues, try restarting your router.",0
+hi all.  i am using skype to talk with my friends but they tell me that i am very quiet on my microphone.  this same microphone works very well on windows but not on ubuntu.  i double clicked on the sound icon and turned the 'Microphone' all the way up but still very quiet.  any suggestions?,"If you're having connection issues, try restarting your router.",0
+"alright, so what precisely is the difference between 'deb http://us.archive.ubuntu.com/ubuntu/' and 'deb-src http://us.archive.ubuntu.com/ubuntu/' in this sources.list file?",Are you asking about Ubuntu software?,0
+could someone help me about kernel?,Are you asking about Ubuntu software?,0
+how to check for the OS details on the terminal? like Linux 2.6.17-3.6.18...,"If you're having connection issues, try restarting your router.",0
+what details?  uname -a  is one,There may be a problem with memory allocation in the code.,0
+can I run two vnc servers?,"If you're having connection issues, try restarting your router.",0
+"hm.. I've got a ubuntu in a box, specified for a single task (well, a few single tasks), unfortunately I ran out of diskspace, any hints what I can remove without problems?",There may be a problem with memory allocation in the code.,0
+"strange, why isn't it mirrored alongside the other CDs?",Are you asking about Ubuntu software?,0
+"depending on whether I run Ubuntu or Kubuntu, can I add or change to the other DE once U or K is installed? (without a full install of the other?","If you're having connection issues, try restarting your router.",0
+nodoub: different user?,"If you're having connection issues, try restarting your router.",0
+Anyone off the top of there head the command to upgrade to 7.10 (from 7.04)? Testing it out in vm.,"If you're having connection issues, try restarting your router.",0
+Can anyone tell me how I can scan my hardware to figure out what kind of video card my machine has?,Printer config instructions are usually at the manufactorer's website,0
+what do you mean by '3d windows'?,There may be a problem with memory allocation in the code.,0
+"trying to get a Samsung SyncMaster 940bw working in Dapper. it displays post, and fb stuff, but once x starts the screen is all scrambled, any advice?",Are you asking about Ubuntu software?,0
+is that an LCD? ./Just wondering.,Printer config instructions are usually at the manufactorer's website,0
+How to make on linux html webpage?,Printer config instructions are usually at the manufactorer's website,0
+Is there a way to install a different gui that can be switched to during startup other than gnome while still keeping the option to log back into gnome if desired?,Are you asking about Ubuntu software?,0
+like KDE? sure.,"If you're having connection issues, try restarting your router.",0
+is there a log of the bootup? having problems booting .31 kernel with 9.10. I disabled the splash but it still freezes at the white logo,Are you asking about Ubuntu software?,0
+"hey, the minimize, exit and maximize buttons are gone my current install. Has anyone ever run into this?",Are you asking about Ubuntu software?,0
+"Hey all, can anyone help with my configuring of apache2?","If you're having connection issues, try restarting your router.",0
+"anyone know what the listy of servers is for apt-get so i can get other applications? icewm, blackbox and fluxbox arent in the current list :(",Printer config instructions are usually at the manufactorer's website,0
+"Hi All.  I've got a IDE HDD with a single NTFS partition on it.  In trying to fix grub, I tried installing the bootloader to both that disk, and that partition.  How I can't access the data on that NTFS that partition.  Anybody got any ideas?",I'll let the community handle this one.,0
+how do I get 10.10 into single user?,I'll let the community handle this one.,0
+anyone know about sound card type stuff?,I'll let the community handle this one.,0
+is there an easy way to send a message from one Ubuntu box to another on a LAN?,There may be a problem with memory allocation in the code.,0
+ copuing files? use ssh/scp is a easy way,Printer config instructions are usually at the manufactorer's website,0
+or is itimpossible to do on an ati card?,Printer config instructions are usually at the manufactorer's website,0
+does anyone know if there are any Ubuntu packages for X.org 6.8.99.901?,Printer config instructions are usually at the manufactorer's website,0
+"hey I have a computer with a 40 gig hard drive running ubuntu 6.whatever.  How hard would it be to transfer everything (including all my current settings, user accounts, and everything) to another (160 gig) hard drive?",I'll let the community handle this one.,0
+anybody know if Quicken 2007 runs fine in windows xp with online banking under vmware ok?,I'll let the community handle this one.,0
+"hi guys, rythmbox says it needs an mp3 plugin to process mp3 files, what's the name of this plug in ? Thanks in advance",Printer config instructions are usually at the manufactorer's website,0
+"hi guys, is there a nice gui for fdic or similar? I got a new hard drive which i preformated with fat32...",There may be a problem with memory allocation in the code.,0
+ you mean fdisk ? gparted can do that,Printer config instructions are usually at the manufactorer's website,0
+does anyone know how the ubuntu live cd remastering workd for edgy?,There may be a problem with memory allocation in the code.,0
+whachutalking bout willis?,"If you're having connection issues, try restarting your router.",0
+anyone know how to disable the bottom bar? I installed docky and just want that to run,Printer config instructions are usually at the manufactorer's website,0
+Hi folks - anyone any good at XChat basics ??,I'll let the community handle this one.,0
+I am getting the following error when starting compiz http://pastebin.ca/2093244. Any help on this ?,Are you asking about Ubuntu software?,0
+anyone? gifTOxic gives a seg fault when i install it.. where can i report this?,Are you asking about Ubuntu software?,0
+"Hello everyone, sorry for repeating. I am unable to connect to my samba server shares after upgrading to lucid does anyone know how I should troubleshoot this? thank you",Printer config instructions are usually at the manufactorer's website,0
+you also migth try in #ubuntu-server? There is more specific -server help,"If you're having connection issues, try restarting your router.",0
+I'm new to linux. Can anyone tell me how to create shortcuts in nautilus?,There may be a problem with memory allocation in the code.,0
+"and btw, how to restart network in kubuntu?",I'll let the community handle this one.,0
+"i downloaded it over night, is the installation hard?",I'll let the community handle this one.,0
+CAn CD-RW disc cause problems if Ubuntu is installing from it?,Printer config instructions are usually at the manufactorer's website,0
+maybe the iso was corrupt? maybe you burned the disc too fast?,"If you're having connection issues, try restarting your router.",0
+"hey all, did you hear about a bug with ubuntu one on natty, mine don't connect any more and gives a DBus error message.. ??","If you're having connection issues, try restarting your router.",0
+did you remove and add it back? or do a ubuntu update?,Printer config instructions are usually at the manufactorer's website,0
+how do you send out messages with centerim?,"If you're having connection issues, try restarting your router.",0
+"did you try ctrl enter, shift enter?",There may be a problem with memory allocation in the code.,0
+hello  to alll.... any one know about pidgin???,There may be a problem with memory allocation in the code.,0
+"can i wipe clean fstab, and do a clean sudo bash diskmounter?",Printer config instructions are usually at the manufactorer's website,0
+"But one thing I generally get confused of. If cron, or run leve starting scripts are started as root. Won't the use the root's path ?",Are you asking about Ubuntu software?,0
+hmmm how to set IP address from console?,Are you asking about Ubuntu software?,0
+I think the cd driver is not well defined =/ can I check it?,"If you're having connection issues, try restarting your router.",0
+ http://www.liflg.org/?catid=6&gameid=17,Printer config instructions are usually at the manufactorer's website,0
+"'choose a plugin for shockwave flash', what should i choose?",I'll let the community handle this one.,0
+"hi all, i installed ubuntu for a friend who hasnt used the machine in a few months.  he forgot his paswords and i cannot login.  is there a way i can bypass all this or do i have to reinstall the operating system?",There may be a problem with memory allocation in the code.,0
+"in case you guys missed my question, it was that is it possible to make ramdisk and mount my swap partition on it? any clue?",Printer config instructions are usually at the manufactorer's website,0
+"Hi there, is there any good player for radio from Internet there?",Printer config instructions are usually at the manufactorer's website,0
+isnt root access more powerful than sudo?,There may be a problem with memory allocation in the code.,0
+looking for a printer hack channel???,"If you're having connection issues, try restarting your router.",0
+what's your real issue?,Printer config instructions are usually at the manufactorer's website,0
+Rhythm Box Pllayer is getting old for me. Any better music/podcast organizer suggestions ?,There may be a problem with memory allocation in the code.,0
+"hi channel, I have a non ubuntu question, may I? it's c++",Are you asking about Ubuntu software?,0
+"try ##c++, no?",Printer config instructions are usually at the manufactorer's website,0
+Anyone can help me about a plugin in Mozilla firefox?,Are you asking about Ubuntu software?,0
+what plugin?,Are you asking about Ubuntu software?,0
+"how can i shorten length required for new passwords? (Dont lecture me, i dont wanna hear it, ill get the answer eventually anyways) Thanks :)","If you're having connection issues, try restarting your router.",0
+how to go to  ubuntu.br chat?,"If you're having connection issues, try restarting your router.",0
+is there a point to getting a high end graphic card on linux? the drivers dont work properly and game support is very ilmited,There may be a problem with memory allocation in the code.,0
+It makes you used to live in a policestate?,There may be a problem with memory allocation in the code.,0
+what's realtime kernel?,I'll let the community handle this one.,0
+does anybody know how to determine if a wireless card is draft or n final spec?,I'll let the community handle this one.,0
+"what determines what is mounted outside of fstab? 'mount' is showing one of my usb externals as /dev/mapper/sde1-3, gparted also shows this but my fstab has no sde partitions device mounted.",Printer config instructions are usually at the manufactorer's website,0
+"actually means, that your'e from hamburg, aight? ^^;",Printer config instructions are usually at the manufactorer's website,0
+anyone know how to fix this error?,Are you asking about Ubuntu software?,0
+that can be very hard to solve. is this something new that just started? can you boot in recovery mode?,I'll let the community handle this one.,0
+is there a website which can tell you an ip address of any site? similar to whatismyip.com but as in whatistheirip.com,"If you're having connection issues, try restarting your router.",0
+how do i add me to another group? the gui in gnome control center doesn't list the group i want to be a part of.,Are you asking about Ubuntu software?,0
+how do I start an app as root in gnome?,"If you're having connection issues, try restarting your router.",0
+what kernel version does gutsy use?,Printer config instructions are usually at the manufactorer's website,0
+is there a thingy like that to tell when I installed ubuntu?,I'll let the community handle this one.,0
+does anyone still use wine anymore?,There may be a problem with memory allocation in the code.,0
+program for ftp transfer?,Are you asking about Ubuntu software?,0
+and will allow me to use the webcam on pidgin?,Are you asking about Ubuntu software?,0
+I have win xp - win 7 dual boot ! I want ubuntu to make triple- boot. Can I do that ?? :),"If you're having connection issues, try restarting your router.",0
+"sheesh, is it dead in here today or what?",There may be a problem with memory allocation in the code.,0
+everyone is apt-get the rc?,Printer config instructions are usually at the manufactorer's website,0
+what is an equivalent for superkaramba on ubuntu?,Are you asking about Ubuntu software?,0
+would I have to set it up?,I'll let the community handle this one.,0
+seq: whats this 'sync'?,I'll let the community handle this one.,0
+"Is there a way to contact Canonical regarding a launchpad issue other than rt? I emailed RT a while ago (months) multiple times, and never got a response",I'll let the community handle this one.,0
+do you know what package network-admin is from?,I'll let the community handle this one.,0
+Will I have to reconfigure CUPS if I upgrade to Edgy?,Are you asking about Ubuntu software?,0
+"I accidentally removed my volume from the panel. When I try to add panel, there is no volume or sound listed. How do I add it back?",I'll let the community handle this one.,0
+Does anyone else have any idea where I can go to get help / look for it?,I'll let the community handle this one.,0
+What's the name of the advanced visual effects compiz config package?,Are you asking about Ubuntu software?,0
+you have all the development headers for X and GTK installed?,I'll let the community handle this one.,0
+not sure what all of them are - is there a list?,I'll let the community handle this one.,0
+Is it a good idea to manually edit the /etc/hostname file?,Are you asking about Ubuntu software?,0
+the ssh just with the IP address worked. Why putty did not recognized my hostnema?,I'll let the community handle this one.,0
+can someone tell me what I do with a .tar.gz.part file?,"If you're having connection issues, try restarting your router.",0
+Why not install from repository instead?,Are you asking about Ubuntu software?,0
+what are the purposes of backports? can someone explain?,Printer config instructions are usually at the manufactorer's website,0
+see here: http://ubuntuforums.org/showthread.php?t=40291,There may be a problem with memory allocation in the code.,0
+"Hello, why Ubuntu 6.06 recognize my HDD as /dev/hda, but in 7.04 my hdd become /dev/sda?",Are you asking about Ubuntu software?,0
+is possible have glibc into ubuntu ????????,Printer config instructions are usually at the manufactorer's website,0
+can someone help me with setting up ftp on my ubuntu 10.04 server? i tried talking in #ubuntu-server and it takes forever for anyone to respond.,"If you're having connection issues, try restarting your router.",0
+can someone tell me how to get my kernel sources?,I'll let the community handle this one.,0
+random question - can you rsync data to an NTFS partition?,I'll let the community handle this one.,0
+does ubuntu pick up wireless cards?,I'll let the community handle this one.,0
